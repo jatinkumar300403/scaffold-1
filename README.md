@@ -1,2 +1,2 @@
 ### scaffold-1
-*this is a scaffold project
+* this is a scaffold project
